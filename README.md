@@ -100,6 +100,8 @@ Experienced in implementing secure authentication workflows including **Twilio v
 
 <div align="center">
   
-  💡 *“Clean architecture and reliable code are not features — they’re the foundation of professional software.”*
+  💡 *“Software development is not a job, it is another world, in which you have to do a lot of jobs.”*
+
+— Umer Farooq
   
 </div>
