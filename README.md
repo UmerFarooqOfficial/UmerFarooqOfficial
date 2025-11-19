@@ -80,7 +80,9 @@ Experienced in implementing secure authentication workflows including **Twilio v
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=UmerFarooqOfficial&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  ![UmerFarooqOfficial's Stats](https://github-readme-stats.vercel.app/api?username=UmerFarooqOfficial&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<br/>
+  ![UmerFarooqOfficial's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmerFarooqOfficial&theme=tokyonight&show_icons=true&hide_border=true)
 
 </div>
 
