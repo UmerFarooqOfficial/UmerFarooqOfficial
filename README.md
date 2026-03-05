@@ -68,7 +68,8 @@ Experienced in implementing secure authentication workflows including **Twilio v
 ---
 
 ## 📚 Currently Exploring
-- Advanced features in **ASP.NET Core 9**  
+- Advanced features in **ASP.NET Core 10**
+- .NET **Aspire**
 - Background job orchestration with **Hangfire**  
 - Secure communication workflows with **Twilio & Ngrok**  
 - UI/UX consistency improvements using **Bootstrap 5**  
