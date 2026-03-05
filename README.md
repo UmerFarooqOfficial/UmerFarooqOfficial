@@ -76,18 +76,6 @@ Experienced in implementing secure authentication workflows including **Twilio v
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  ![UmerFarooqOfficial's Stats](https://github-readme-stats.vercel.app/api?username=UmerFarooqOfficial&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-<br/>
-  ![UmerFarooqOfficial's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmerFarooqOfficial&theme=tokyonight&show_icons=true&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
